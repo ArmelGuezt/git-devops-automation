@@ -13,3 +13,29 @@ Este repositório tem fins didáticos e mostra na prática como versionar arquiv
 - Markdown
 
 ## 📁 Estrutura do Projeto
+
+-------
+
+## 🚀 Como Usar
+
+1. Clone o repositório:
+```bash
+   git clone https://github.com/seu-usuario/projeto-exemplo.git
+```
+2. Entre na pasta do projeto:
+```bash
+   cd projeto-exemplo
+```
+3. Faça suas alterações e crie um commit:
+```bash
+   git add .
+   git commit -m "sua mensagem aqui"
+```
+
+## 🤝 Contribuindo
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT.
